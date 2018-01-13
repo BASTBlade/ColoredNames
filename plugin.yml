@@ -1,0 +1,14 @@
+name: ColoredNames
+main: blade.colorednames.main.main
+version: 1.0
+commands:
+    colorednames:
+        description: Uses the command
+        usage: /colorednames
+        permission: colorednames.use
+        permission-message: You do not have permission to use this command.
+    cn:
+        description: Uses the command
+        usage: /cn
+        permission: colorednames.use
+        permission-message: You do not have permission to use this command.
